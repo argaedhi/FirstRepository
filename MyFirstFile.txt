@@ -1,2 +1,3 @@
 Create first line
 Modified in master branch
+added text to test merge in git hub
